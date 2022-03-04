@@ -1,0 +1,2 @@
+Integer[] arr = new Integer[len];
+Arrays.sort(arr, (a,b) -> (b - a));
